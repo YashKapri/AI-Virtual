@@ -1,4 +1,4 @@
-# 🖱️ AI Virtual Mouse (Hand Gesture Controller)
+# AI Virtual (Hand Gesture Controller)
 
 > **"I threw away my mouse. I built my own using AI."**
 
